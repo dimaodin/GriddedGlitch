@@ -1,3 +1,3 @@
-# Animated Gridded Glitch!
+# Animated Gridded Color Glitch!
 
-Animated Gridded Glitch made in Pure JavaScript &amp; CSS.
+Animated gridded color palette glitch made in Pure JavaScript &amp; CSS.
