@@ -9,7 +9,7 @@
 At the root of the Project run:
 
 ```
-$> git clone https://github.com/dimaodin/typemachine.git
+$> git clone https://github.com/dimaodin/griddedglitch.git
 ```
 
 <br>
