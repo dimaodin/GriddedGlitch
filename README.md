@@ -6,7 +6,7 @@
 
 ## :construction_worker: Installation
 
-At the root of the Project run:
+***In order to clone the project via HTTPS, run this command:***
 
 ```
 $> git clone https://github.com/dimaodin/griddedglitch.git
